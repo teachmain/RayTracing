@@ -14,5 +14,9 @@
 *.out
 *.app
 
+<<<<<<< HEAD
 # Testfiles
 test.*
+=======
+.vscode
+>>>>>>> 335a01905c70c82bf2c695e90fbba31ab7bbed42
